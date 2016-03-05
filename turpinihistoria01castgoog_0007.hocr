@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./turpinihistoria01castgoog_0007.png"; bbox 0 0 794 1273; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 454 468 480">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 454 468 480">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 454 468 480; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 246 454 468 480; x_wconf 85' lang='lat' dir='ltr'><strong>PUBLICATIONS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 141 584 576 601">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 141 584 576 601">
+     <span class='ocr_line' id='line_1_2' title="bbox 141 584 576 601; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 141 584 212 601; x_wconf 55' lang='lat' dir='ltr'>somme</span> <span class='ocrx_word' id='word_1_3' title='bbox 223 587 269 601; x_wconf 68' lang='grc' dir='ltr'>Ρουκ</span> <span class='ocrx_word' id='word_1_4' title='bbox 280 584 351 601; x_wconf 68' lang='grc' dir='ltr'><strong>ι,·ΕτυῠΕ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 362 587 394 601; x_wconf 67' lang='lat' dir='ltr'><strong>uss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 405 587 484 601; x_wconf 73' lang='lat' dir='ltr'><strong>LANGUES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 494 587 576 601; x_wconf 68' lang='lat' dir='ltr'>ROMANES</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
